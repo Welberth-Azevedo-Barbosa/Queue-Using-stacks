@@ -1,2 +1,2 @@
 # Queue-Using-stacks
-Solution for "Implement Queue using stacks"
+Solution for Leetcode 232: Implement Queue using stacks
